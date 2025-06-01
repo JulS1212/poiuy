@@ -43,7 +43,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(507, 29);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Добро Пожаловать в ресторан \"КЛОУН\"";
+            this.label1.Text = "Добро Пожаловать в ресторан \"блин\"";
             // 
             // label2
             // 
